@@ -1,6 +1,6 @@
 # Glacier - SSB Manager with a Store
 ## Copyright
-(C) 2010 - 2019 -- PizzaLovingNerd <pizzalovingnerd@teknik.io>
+(C) 2020 -- PizzaLovingNerd <pizzalovingnerd@teknik.io>
 
 Released under GNU General Public License version 2
 
